@@ -1,0 +1,12 @@
+.img1{
+	border: 5px solid black;
+	width:100%;
+	height: auto;
+
+}
+#h{
+	font-family:sans-serif;
+	 font-style:italic;
+	 font-weight:bold;
+	 padding-left: 35%;
+}
